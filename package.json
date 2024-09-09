@@ -1,0 +1,23 @@
+{
+  "name": "asds_afpces_api",
+  "version": "1.0.0",
+  "description": "AFPCES CloudApi",
+  "main": "afpces_cloud.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/araojoshua/ASDS_AFPCES_API"
+  },
+  "keywords": [
+    "API",
+    "CLOUD"
+  ],
+  "author": "Joshua Arao",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql": "^2.18.1"
+  }
+}
